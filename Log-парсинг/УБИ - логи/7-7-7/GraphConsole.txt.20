@@ -1,0 +1,4 @@
+31.07.16 03:30:08.060 ERROR: Фильтр "ToUbiServer": "2 End of file handle_read.192.168.120.1:39343"
+31.07.16 03:30:11.185 ERROR: Фильтр "ToUbiServer": "111 Connection refused handle_connect."
+31.07.16 03:30:20.446 INFO: Фильтр "ToUbiServer": "connected to 192.168.120.1:39343"
+31.07.16 03:30:20.533 INFO: Фильтр "Biometry::DB1": "CRC for device 0 computed."
